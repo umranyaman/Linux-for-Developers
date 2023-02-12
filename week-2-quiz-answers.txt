@@ -1,0 +1,97 @@
+Text Editors
+
+Q1. Which of the following statements is true?
+
+
+A. Once you have begun a file in vi, you cannot edit it in emacs without running a conversion program first to strip out embedded information in the file
+
+B. Once you have begun a file in emacs, you cannot edit it in vi without running a conversion program first to strip out embedded information in the file
+
+C. You can go back and forth between editors as much as you would like without a conversion process
+
+Answer
+
+C 
+
+Q2. Which of the following methods can be used to produce a file with 3 lines in it? Select all answers that apply.
+
+A. $ echo line one > myfile
+
+   $ echo line two >> myfile
+
+   $ echo line three >> myfile
+
+
+B. $ echo -e 'line one\nline two\nline three ' > myfile
+
+
+C. $ cat << EOF > myfile
+
+   > line one
+
+   > line two
+
+   > line three
+
+   > EOF $
+
+
+D. $ echo line one > myfile
+
+   $ echo line two > myfile
+
+   $ echo line three > myfile
+   
+Answer
+
+A, B, C
+   
+
+Q3. Which statement is true?
+
+
+A. nano involves switching between command and insert mode by hitting the Escape key
+
+B. emacs involves switching between command and insert mode by hitting the Escape key
+
+C. edt involves switching between command and insert mode by hitting the Escape key
+
+D. vi involves switching between command and insert mode by hitting the Escape key
+
+Answer
+
+D
+
+
+Q4. Which pair of editors has partisan advocates who tend to wage war over which is better than the other?
+
+
+A. gedit and emacs
+
+B. vi and nano
+
+C. pico and nano
+
+D. vi and emacs
+
+Answer
+
+D
+
+Q5. Which editor can always be found installed by default on virtually any Linux system?
+
+
+A. WordStar
+
+B. emacs
+
+C. libreoffice
+
+D. vi
+
+E. kwrite
+
+Answer
+
+D
+
