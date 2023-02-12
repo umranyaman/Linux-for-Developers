@@ -14,20 +14,20 @@ Week 5 Quiz
 
 ### Week 1 Quiz
 
-The answers are in the week-1-quiz-answers.Rmd file.
+The answers are in the week-1-quiz-answers.txt file.
 
 ### Week 2 Quiz
 
-The answers are in the week-2-quiz-answers.Rmd file.
+The answers are in the week-2-quiz-answers.txt file.
 
 ### Week 3 Quiz
 
-The answers are in the week-3-quiz-answers.Rmd file.
+The answers are in the week-3-quiz-answers.txt file.
 
 ### Week 4 Quiz
 
-The answers are in the week-4-quiz-answers.Rmd file.
+The answers are in the week-4-quiz-answers.txt file.
 
 ### Week 5 Quiz
 
-The answers are in the week-5-quiz-answers.Rmd file.
+The answers are in the week-5-quiz-answers.txt file.
