@@ -1,4 +1,5 @@
-## 1. Question 1
+1. Question 1
+
 In the X Window System:
 
 A. The server handles matters such as display and input devices, while the client can be anywhere and is the running application.
@@ -12,10 +13,11 @@ C. The server is always on the local system, while the client is always on a rem
 
 D. The client handles matters such as display and input devices, while the server can be anywhere and is the running application.
 
-### Answer 
+Answer 
 
 
-### 2. Question 2
+2. Question 2
+
 Which of the following are layers of the graphical system interface? Select all answers that apply.
 
 A. Memory Manager
@@ -28,10 +30,11 @@ D. Network Manager
 
 E. Desktop Manager
 
-### Answer 
+Answer 
 
 
-### 3. Question 3
+3. Question 3
+
 If you are running a GNOME desktop manager:
 
 A. You cannot run KDE-based applications
@@ -42,10 +45,10 @@ C. You can run KDE-based applications most of the time, as long as the underlyin
 
 D. You can run KDE-based applications if you pay an extra fee
 
-### Answer
+Answer
 
 
-## 4.Question 4
+4.Question 4
 Which of the following are Desktop Managers? Select all answers that apply.
 
 A. KDE
@@ -58,10 +61,10 @@ D. Wayland
 
 E. GNOME
 
-### Answer
+Answer
 
 
-## 5.Question 5
+5.Question 5
 What are ways you can launch a terminal window on a graphical desktop? Select all answers that apply.
 
 A. Find the "terminal" option in the Application or Favorites menu
@@ -72,6 +75,6 @@ C. Hit Alt-F2 and then type in the program name (e.g. gnome-terminal, konsole, x
 
 D. On many but not all desktops, right-click anywhere on the background and click on Open Terminal
 
-### Answer 
+Answer 
 
 C
