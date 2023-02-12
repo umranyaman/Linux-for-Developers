@@ -1,37 +1,17 @@
-# Graphical-Environments-and-Interfaces
-
 ## Linux for Developers Quiz Answers
 
 This repository contains the answers to the quizzes from the Linux for Developers Coursera course. The answers are provided for educational purposes only and should not be used to cheat on the quizzes.
 
 Table of Contents
 
-Week 1 Quiz
+Module 1
+   - Quiz 1: Linux and the Operating System
+   - Quiz 2: Graphical Environments and Interfaces
+   - Quiz 3: 
+Module 2
+   - Quiz 1: Text Editors
+   - Quiz 2: Shells, Bash, and the Command Line
+Module 3
+Module 4
+Module 5
 
-Week 2 Quiz
-
-Week 3 Quiz
-
-Week 4 Quiz
-
-Week 5 Quiz
-
-### Week 1 Quiz
-
-The answers are in the week-1-quiz-answers.txt file.
-
-### Week 2 Quiz
-
-The answers are in the week-2-quiz-answers.txt file.
-
-### Week 3 Quiz
-
-The answers are in the week-3-quiz-answers.txt file.
-
-### Week 4 Quiz
-
-The answers are in the week-4-quiz-answers.txt file.
-
-### Week 5 Quiz
-
-The answers are in the week-5-quiz-answers.txt file.
