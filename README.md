@@ -7,9 +7,13 @@ This repository contains the answers to the quizzes from the Linux for Developer
 Table of Contents
 
 Week 1 Quiz
+
 Week 2 Quiz
+
 Week 3 Quiz
+
 Week 4 Quiz
+
 Week 5 Quiz
 
 ### Week 1 Quiz
