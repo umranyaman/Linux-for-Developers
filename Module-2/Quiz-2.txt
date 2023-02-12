@@ -1,0 +1,73 @@
+Shells, Bash, and the Command Line
+
+Q1. Which of the following commands would add newbin, a directory in your home directory, to the PATH (Select all answers that apply)?
+
+A. PATH=$HOME/$newbin:$PATH
+
+B. $PATH=$PATH:$HOME/newbin
+
+C. PATH=$PATH:$HOME/newbin
+
+D. PATH=$HOME/newbin:$PATH
+
+Answer
+
+
+
+Q2. To make an environment variable (VAR) effective for only one command (foobar), you should do:
+
+A. export VAR=value ./foobar
+
+B. VAR=value &&     ./foobar
+
+C. VAR=value     ./foobar
+
+D. VAR=value ;     ./foobar
+
+Answer
+
+C 
+
+
+Q3. Which of the following expressions will give the correct mathematical result (7) for x = 10 (Select all answers that apply)?
+
+A. $ echo $(expr $x-3)
+
+B. $ echo $(expr $x - 3)
+
+C. $ echo $x - 3
+
+D. $ echo $(($x - 3 ))
+
+Answer
+
+B, D
+
+
+Q4. Which commands will get both the normal and error outputs of prog into a file? Select all answers that apply.
+
+A. foo >> file
+
+B. foo > file 2>&1 
+
+C. foo 2>&1 file
+
+D. foo >& file
+
+Answer
+
+
+
+
+Q5. Which of the following commands has the correct syntax for specifying an alias?
+
+
+A. alias doitall=make clean; make all; evince output.pdf
+
+B. alias doitall="make clean; make all; evince output.pdf" 
+
+C. alias doitall=  "make clean; make all; evince output.pdf"
+
+Answer
+
+B
