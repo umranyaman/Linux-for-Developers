@@ -1,0 +1,70 @@
+Filesystem Layout, Partitions, Paths, and Links
+
+Q1. Which of the following pseudo-directories are empty when the system is not running (Select all answers that apply)?
+
+A. /sys
+
+B. /proc
+
+C. /dev
+
+D. /etc
+
+E. /boot
+
+Answer
+
+A,B,C
+
+
+Q2. Which of the following statements describes the best practice?
+
+A. The current directory should be appended to the path
+
+B. The current directory should be prepended to the path
+
+C. The current directory should not be placed in the path
+
+Answer
+
+C
+
+
+Q3. If file does not exist, which command will produce an error?
+
+A. ln file file2
+
+B. ln -s file file2
+
+Answer
+
+A
+
+
+Q4. Which command will list the partition information on the first hard disk and then exit?
+
+A. fdisk /dev/sda
+
+B. fdisk -l /dev/sda
+
+C. fdisk -l hd1
+
+Answer
+
+B
+
+
+Q5. Which directory trees usually have frequently changing data, and would not be desirable on a partition that is more static? Select all answers that apply.
+
+A. /var
+
+B. /home
+
+C. /usr
+
+D. /bin
+
+E. /tmp
+
+Answer
+
