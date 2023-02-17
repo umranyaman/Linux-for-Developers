@@ -1,0 +1,79 @@
+Kernel Modules and Device Management
+
+Q1. Which statements are true?
+
+A. It is impossible to unload a kernel module being used by an application.
+
+B. It is possible to unload a kernel module being used by another module if you use the -f option to either rmmod or modprobe -r
+
+C. It is possible to unload a kernel module being used by an application if you use the -f option to either rmmod or modprobe -r
+
+D. It is impossible to unload a kernel module being used by another module
+
+Answer
+
+A, D
+
+
+Q2. The lsmod utility shows for each loaded module (select all correct answers):
+
+A. When the module was loaded
+
+B. Its size in bytes
+
+C. How many processes depend on it
+
+D. What other modules are using it
+
+E. Which user loaded the module
+
+Answer
+
+B,C,D
+
+
+Q3. Udev (select all correct answers):
+
+A. Is responsible for populating the /dev directory once the system is up and running
+
+B. Is designed to control which users can use a particular device
+
+C. Stands for User Device
+
+D. Stands for Deviant User
+
+E. Loads and unloads device drivers and other kernel modules as needed 
+
+Answer 
+
+A,C,E
+
+
+Q4. Which command will ensure the httpd service (Apache) starts at system boot?
+
+A. sudo systemctl enable httpd.service
+
+B. sudo systemctl init httpd.service
+
+C. sudo systemctl status httpd.service
+
+D. sudo systemctl start httpd.service
+
+Answer
+
+A
+
+
+Q5. How could you ensure the httpd service (Apache)  is restarted if it is already running, say to absorb a revised configuration file (select all correct answers)?
+
+A. sudo systemctl restart httpd
+
+B. sudo restart httpd
+
+C. sudo systemctl stop httpd && sudo systemctl start httpd
+
+D. sudo killall httpd && sudo startall httpd
+
+Answer
+
+A, C 
